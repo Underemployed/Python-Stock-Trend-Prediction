@@ -8,5 +8,4 @@ This is an open-source web application built using Python and Streamlit that ena
 - Utilize machine learning algorithms such as linear regression and LSTM neural networks for analysis
 - Interactive graphs and charts for visualizing the data
 - User-friendly interface built using the Streamlit library
-- Available as an open-source project on GitHub
 
