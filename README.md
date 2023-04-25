@@ -15,4 +15,4 @@ This is a web application built using Python and Streamlit that enables users to
 
 # Completed Project
 
-<img src="https://github.com/Underemployed/Python-Stock-Trend-Prediction/blob/main/screenshot.png">
+![alt text](https://github.com/Underemployed/Python-Stock-Trend-Prediction/blob/main/screenshot.png?raw=true)
