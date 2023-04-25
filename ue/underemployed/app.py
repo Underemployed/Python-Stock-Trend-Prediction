@@ -41,9 +41,8 @@ ax.plot(df.index, ma50, label='50MA', color='green', linewidth=max(2/50, 0.5), a
 
 
 
+st.subheader('{} Stock Price ({})'.format(user_input, start_date.strftime('%Y') + ' to ' + end_date.strftime('%Y')))
 
-
-ax.set_title('{} Stock Price ({})'.format(user_input, start_date.strftime('%Y') + ' to ' + end_date.strftime('%Y')))
 ax.set_xlabel('Date')
 ax.set_ylabel('Price (USD)')
 ax.legend()
@@ -98,5 +97,4 @@ plt.xlabel('Time')
 plt.ylabel('Price')
 plt.legend()
 st.pyplot(fig2)
-
 
