@@ -9,4 +9,10 @@ This is a web application built using Python and Streamlit that enables users to
 - Interactive graphs and charts for visualizing the data
 - User-friendly interface built using the Streamlit library
 
+# Orginal Price Vs Prediction
+
 <img src="https://github.com/Underemployed/Python-Stock-Trend-Prediction/blob/main/test.png">
+
+# Completed Project
+
+<img src="https://github.com/Underemployed/Python-Stock-Trend-Prediction/blob/main/screenshot.png">
