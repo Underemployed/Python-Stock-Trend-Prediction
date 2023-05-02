@@ -16,4 +16,4 @@ This is a web application built using Python and Streamlit that enables users to
 # Completed Project
 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/qUiJFur4VjY/0.jpg)](http://www.youtube.com/watch?v=qUiJFur4VjY "Python Stock Trend App Demo")
+[![Python Stock Trend App Demo](http://img.youtube.com/vi/Ufq6YcCA1iQ/0.jpg)](http://www.youtube.com/watch?v=Ufq6YcCA1iQ "Python Stock Trend App Demo")
