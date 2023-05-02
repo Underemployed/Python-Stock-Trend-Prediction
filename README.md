@@ -15,8 +15,6 @@ This is a web application built using Python and Streamlit that enables users to
 
 # Completed Project
 
-![alt text](https://raw.githubusercontent.com/Underemployed/Python-Stock-Trend-Prediction/main/screenshot.png?raw=true)
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qUiJFur4VjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
