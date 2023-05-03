@@ -37,5 +37,3 @@ Note: The stock data used in the application is retrieved from Yahoo Finance and
 # Completed Project(Video Demo)
 
 [![Python Stock Trend App Demo](http://img.youtube.com/vi/Ufq6YcCA1iQ/0.jpg)](http://www.youtube.com/watch?v=Ufq6YcCA1iQ "Python Stock Trend App Demo")
-
-> > > > > > > 97913aa37fc9c552f0f7d1840eade3bf6143176d
