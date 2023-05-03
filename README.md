@@ -21,12 +21,12 @@ The following packages are required to run the application:
 ## How to use
 
 1. Clone this repository to your local machine.
-2. Navigate to the directory containing the cloned repository.
-3. Install the required packages using `pip install -r requirements.txt`.
-4. Navigate to the directory by executing `cd ue\underemployed`.
-5. Run the application by executing `streamlit run stock_trend_prediction.py`.
-6. Enter the stock ticker and end date in the input fields provided.
-7. The application will display a plot of the stock's closing price and moving averages, as well as predictions for future trends.
+2. Navigate to the directory containing the cloned repository
+3. Install the required packages using `pip install -r requirements.txt`
+4. Navigate to the directory by executing `cd ue\underemployed`
+5. Run the application by executing `streamlit run stock_trend_prediction.py`
+6. Enter the stock ticker and end date in the input fields provided
+7. The application will display a plot of the stock's closing price and moving averages, as well as predictions for future trends
 
 Note: The stock data used in the application is retrieved from Yahoo Finance and is limited to the available data on the website. The predictions made by the app are for informational purposes only and should not be used for making investment decisions.
 
